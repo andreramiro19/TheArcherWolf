@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce209e33e09cfa94190d1c585f36b525
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264852
+  packageName: Modular Medieval Town - Medieval Town
+  packageVersion: 1.2
+  assetPath: Assets/Hivemind/ModularMedievalTown/HDRP(Default)/Art/Meshes/Architecture/Modules/Walls_B/Materials/MI_trim_wood_02_green.mat
+  uploadId: 696723

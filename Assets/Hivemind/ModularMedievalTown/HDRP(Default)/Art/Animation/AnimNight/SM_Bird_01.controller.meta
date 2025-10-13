@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b3c713c389f6a1458bc9a887da031a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264852
+  packageName: Modular Medieval Town - Medieval Town
+  packageVersion: 1.2
+  assetPath: Assets/Hivemind/ModularMedievalTown/HDRP(Default)/Art/Animation/AnimNight/SM_Bird_01.controller
+  uploadId: 696723
