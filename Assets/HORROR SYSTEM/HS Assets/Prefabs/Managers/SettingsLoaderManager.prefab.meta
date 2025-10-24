@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 806af0ab207bdb445b8c6268a901a7a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Prefabs/Managers/SettingsLoaderManager.prefab
+  uploadId: 794686

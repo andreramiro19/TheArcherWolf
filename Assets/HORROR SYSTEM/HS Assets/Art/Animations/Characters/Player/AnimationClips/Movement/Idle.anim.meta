@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 736fdf12bb3aebd418e8ec057832327f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Art/Animations/Characters/Player/AnimationClips/Movement/Idle.anim
+  uploadId: 794686

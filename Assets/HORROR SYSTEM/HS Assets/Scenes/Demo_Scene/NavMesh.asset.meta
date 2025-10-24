@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af941022b4862be41a3c44b609b86c96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scenes/Demo_Scene/NavMesh.asset
+  uploadId: 794686

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a7d68ccbaed0bb4d9d24f264c0197f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: beb5376b92d0d2a4b902b69b3f996136, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Characters/Player/Camera/PlayerCamera.cs
+  uploadId: 794686

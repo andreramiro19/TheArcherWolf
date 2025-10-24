@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0537683d0716e474d80601ca94a53716
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 6a98206d7dd6c7f4e8d90803108a0c7b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Characters/Player/PlayerHealth.cs
+  uploadId: 794686

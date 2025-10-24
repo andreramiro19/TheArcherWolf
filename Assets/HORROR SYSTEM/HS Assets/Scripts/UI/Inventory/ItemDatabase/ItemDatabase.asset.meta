@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1ff0f77e1975f74f94f5bd4cd85b09c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/UI/Inventory/ItemDatabase/ItemDatabase.asset
+  uploadId: 794686

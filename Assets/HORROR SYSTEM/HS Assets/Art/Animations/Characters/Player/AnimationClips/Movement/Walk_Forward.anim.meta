@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce7dc05fc043fc842914d8b2ed4c5094
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Art/Animations/Characters/Player/AnimationClips/Movement/Walk_Forward.anim
+  uploadId: 794686

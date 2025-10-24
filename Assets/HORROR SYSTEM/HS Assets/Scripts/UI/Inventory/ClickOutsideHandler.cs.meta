@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b778dac16fdd8a14b89ee8ec3234034a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/UI/Inventory/ClickOutsideHandler.cs
+  uploadId: 794686

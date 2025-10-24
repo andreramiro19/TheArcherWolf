@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5ae4c786275bdd94ba0164a0f692fcf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Characters/Player/Flashlight/FlashlightSystem.cs
+  uploadId: 794686

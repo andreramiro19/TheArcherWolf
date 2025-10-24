@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &787559777185831697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5617299068283572082}
+  - component: {fileID: 5759977719971267400}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5617299068283572082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787559777185831697}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5759977719971267400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787559777185831697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 847954cb8526771409fd2d5dbed19dac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundContent:
+  - name: PickUp
+    clip: {fileID: 8300000, guid: 5875f2f2763344a48996e7d514a0d044, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: PickUpFailed
+    clip: {fileID: 8300000, guid: fa4dc656e3c390e4ca26c83219fd34ed, type: 3}
+    volume: 0.07
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Key
+    clip: {fileID: 8300000, guid: 41b6fd35032244c46b6b7b5d7b1f256d, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Lamp
+    clip: {fileID: 8300000, guid: 47d52c36935a1164f97c6abb8d0c6878, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Note
+    clip: {fileID: 8300000, guid: 9a6ebc8d8b0df394287dcc49d58c9f0b, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Button
+    clip: {fileID: 8300000, guid: 760bf67ace435e34aa32a545010584bb, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Window
+    clip: {fileID: 8300000, guid: 05a772a58f7598b4da10fdad44e28e43, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: DoorLocked
+    clip: {fileID: 8300000, guid: 10cf802733c5f0547bf8eae0a06726a7, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: DoorOpen
+    clip: {fileID: 8300000, guid: 2ac35cd2ff741b441a5c58f18a1f7e1c, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: DoorClose
+    clip: {fileID: 8300000, guid: 3675047a96fbe584c9f0919b7eb9ecb0, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: BrokenLight
+    clip: {fileID: 8300000, guid: ae62611ef1bdb924ebb65db43e61d744, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Flashlight Click
+    clip: {fileID: 8300000, guid: d3180c9b94227a1469fe6668ec65bb82, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Flashlight Reload
+    clip: {fileID: 8300000, guid: 41ccc0f977049dc46b11ffff02189499, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Knife Attack
+    clip: {fileID: 8300000, guid: 83992fdab1dcc87459b7d5af69931c3d, type: 3}
+    volume: 0.03
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Pistol Shoot
+    clip: {fileID: 8300000, guid: 82d04b6495d65864997a17477f60fa88, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Pistol Reloading
+    clip: {fileID: 8300000, guid: 1a925da2a5aea1a478e7f1c20787f268, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Empty Gun
+    clip: {fileID: 8300000, guid: aad59ea5ec37cbd4588f18f8f1bcb001, type: 3}
+    volume: 0.06
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: GetKnife
+    clip: {fileID: 8300000, guid: 1dd8feb07f4c1ae44a0c55f2ef226935, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: GetPistol
+    clip: {fileID: 8300000, guid: 16276e4100d1a6042857362182a5d641, type: 3}
+    volume: 0.15
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: GetFlashlight
+    clip: {fileID: 8300000, guid: 9a95b9841f112844da76ce4fa6733786, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}
+  - name: Treatment
+    clip: {fileID: 8300000, guid: 6c77a96f2f52696439de4824048f3c2f, type: 3}
+    volume: 0.1
+    volumeVariance: 0
+    pitch: 1
+    pitchVariance: 0
+    loop: 0
+    mixerGroup: {fileID: -6668895556034874278, guid: 1773b352dcdffa04f887b36ac8b3d304, type: 2}
+    source: {fileID: 0}

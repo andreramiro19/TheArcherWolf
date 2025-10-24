@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fa8fc8b24af20d43a930a8b13c11a85
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Prefabs/Effects/BulletImpactEffect/Materials/Wood/TinyWoodParticle.mat
+  uploadId: 794686

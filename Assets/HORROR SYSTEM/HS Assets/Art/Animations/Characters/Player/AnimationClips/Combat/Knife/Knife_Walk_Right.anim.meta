@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1f29501e6003204490fc6883a15a575
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Art/Animations/Characters/Player/AnimationClips/Combat/Knife/Knife_Walk_Right.anim
+  uploadId: 794686

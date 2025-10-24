@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5624c96fabc7f81409da17ffb3f7d96f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Art/Animations/Characters/Player/AnimationClips/Movement/Running_Forward.anim
+  uploadId: 794686

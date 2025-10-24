@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fe45fa8737e2e734fbcdee8204bb246b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Interactables/Screamer/ScreamerTrigger.cs
+  uploadId: 794686

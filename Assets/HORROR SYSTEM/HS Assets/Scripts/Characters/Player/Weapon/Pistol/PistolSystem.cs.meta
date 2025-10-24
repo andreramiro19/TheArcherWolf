@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f2a92c5db88f154bbf25c65ae82daca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Characters/Player/Weapon/Pistol/PistolSystem.cs
+  uploadId: 794686

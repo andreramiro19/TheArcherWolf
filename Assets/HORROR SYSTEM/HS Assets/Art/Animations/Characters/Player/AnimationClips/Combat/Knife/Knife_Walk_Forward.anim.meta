@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7c0a2c8d9bea2747baf9ec40c0e0c6e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Art/Animations/Characters/Player/AnimationClips/Combat/Knife/Knife_Walk_Forward.anim
+  uploadId: 794686

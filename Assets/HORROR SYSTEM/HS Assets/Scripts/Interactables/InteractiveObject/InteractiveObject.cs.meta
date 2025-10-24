@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ddf77705778860a40b9770b4204dc4e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Interactables/InteractiveObject/InteractiveObject.cs
+  uploadId: 794686

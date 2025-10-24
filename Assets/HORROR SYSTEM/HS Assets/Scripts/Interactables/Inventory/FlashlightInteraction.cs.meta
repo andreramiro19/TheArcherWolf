@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 31aa4bf1e2ee0874d8311f6eedd27eaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.0
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Scripts/Interactables/Inventory/FlashlightInteraction.cs
+  uploadId: 794686
