@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6927a3c61b70fa74786a11c596bf1f7f, type: 3}
+  m_Name: StoryPage2
+  m_EditorClassIdentifier: Assembly-CSharp::StoryPage
+  illustration: {fileID: 21300000, guid: e462d0bc6aa374b439948d66c79fb4a4, type: 3}
+  text: "Minha irm\xE3... Kira. Eles a levaram. O mundo \xE9 cruel, mas ela ainda
+    tem uma chance..."
+  panDirection: 1
+  panSpeed: 5
+  narration: {fileID: 8300000, guid: 9d34606b18c7e1446a8138c0e3f18745, type: 3}
+  narrationDelay: 1
+  charsPerSecondOverride: 0
+  delayAfterLineOverride: -1

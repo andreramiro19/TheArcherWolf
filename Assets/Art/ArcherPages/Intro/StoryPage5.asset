@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6927a3c61b70fa74786a11c596bf1f7f, type: 3}
+  m_Name: StoryPage5
+  m_EditorClassIdentifier: Assembly-CSharp::StoryPage
+  illustration: {fileID: 21300000, guid: 20b8aac8f69e7ef488b54230c104f7c9, type: 3}
+  text: "N\xE3o vou parar. N\xE3o enquanto ela ainda respirar."
+  panDirection: 1
+  panSpeed: 10
+  narration: {fileID: 8300000, guid: a334bad0f406fb1408b0bc37164abc2a, type: 3}
+  narrationDelay: 1
+  charsPerSecondOverride: 14
+  delayAfterLineOverride: -1

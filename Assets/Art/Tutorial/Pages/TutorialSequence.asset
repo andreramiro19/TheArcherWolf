@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f62f6cb37f83194598b8aa9061cf44c, type: 3}
+  m_Name: TutorialSequence
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSequence
+  pages:
+  - {fileID: 11400000, guid: f70ac637a4c7e3c43a6609d758775ad8, type: 2}
+  - {fileID: 11400000, guid: 636d5a438a4183c4fb6bbca42bb2f889, type: 2}
+  - {fileID: 11400000, guid: aaa4489fcbf475d489a6f157daea3161, type: 2}

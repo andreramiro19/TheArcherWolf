@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6927a3c61b70fa74786a11c596bf1f7f, type: 3}
+  m_Name: StoryPage3
+  m_EditorClassIdentifier: Assembly-CSharp::StoryPage
+  illustration: {fileID: 21300000, guid: e9fc4be79cfe1f242b54b1440a7bb57d, type: 3}
+  text: "Mesmo que eu precise lutar contra o imposs\xEDvel, eu vou traz\xEA-la de
+    volta. Eu n\xE3o sou indefesa... aprendi a lutar com a dor!"
+  panDirection: 2
+  panSpeed: 10
+  narration: {fileID: 8300000, guid: 50a4dcbea3ab98749987141e97fd4994, type: 3}
+  narrationDelay: 1
+  charsPerSecondOverride: 12
+  delayAfterLineOverride: -1

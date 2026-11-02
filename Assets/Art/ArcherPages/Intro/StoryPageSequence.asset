@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6841024de0b134d8e5930f62383641, type: 3}
+  m_Name: StoryPageSequence
+  m_EditorClassIdentifier: Assembly-CSharp::StoryPageSequence
+  pages:
+  - {fileID: 11400000, guid: d9e81617dc32ac747b0bed910771ee27, type: 2}
+  - {fileID: 11400000, guid: 8e00311a2bf35384880e7efadff8f422, type: 2}
+  - {fileID: 11400000, guid: 2a93c5c280ad9d04e80d1fe13f3e6a85, type: 2}
+  - {fileID: 11400000, guid: bdda3dd14b9c2a542ab836d6f4c249b2, type: 2}
+  - {fileID: 11400000, guid: 5366204ddc8f6d3478a243854a9392b4, type: 2}
+  - {fileID: 11400000, guid: e7e9bf096be201a4ba92ea400a55d2ca, type: 2}
