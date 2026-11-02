@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/MeshingunStudio/GothicExterior/Art/Scenes/GothicPalace_OverGrown_URP.unity
+    guid: c8aeef2175bad804f960bc383327634d
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: f382931b2774d804a9f3304c562f9307
+  - enabled: 1
+    path: Assets/MeshingunStudio/GothicExterior/Art/Scenes/Gameplay.unity
+    guid: fc218a88405b1034cae8097b43c2e561
+  - enabled: 1
+    path: Assets/Scenes/Prologo1.unity
+    guid: a2e4919c53e3d0644867870ac0e8dc43
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 5394f581e496a94499b3f83cf9972e3b, type: 3}
   m_UseUCBPForAssetBundles: 0
