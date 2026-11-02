@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e94888ce50e0e0449edc10d35039df7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212009
+  packageName: HORROR SYSTEM
+  packageVersion: 2.1
+  assetPath: Assets/HORROR SYSTEM/HS Assets/Settings/URP/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 891618
